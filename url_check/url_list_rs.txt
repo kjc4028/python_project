@@ -1,0 +1,2 @@
+https://www.naver.com |성공|
+http://test.test |실패| [Errno 11001] getaddrinfo failed
